@@ -1,3 +1,6 @@
+// TC - O(log n)
+// SC - O(1)
+
 package Arrays;
 
 class BinarySearch {
